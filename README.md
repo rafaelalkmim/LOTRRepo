@@ -1,6 +1,6 @@
 # LOTR Repository
 
-![./ring.jpeg](One Ring)
+![One Ring](ring.jpeg)
 
 Testes de repositorio remoto
 
