@@ -3,3 +3,4 @@ Frodo
 Gandalf
 Gimli
 Meriadoc Brandebuque
+Peregrin Tuk
