@@ -2,3 +2,4 @@ Aragorn
 Frodo
 Gandalf
 Gimli
+Meriadoc Brandebuque
