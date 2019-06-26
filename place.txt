@@ -3,3 +3,4 @@ Mordor
 Lorien
 Gondor
 Arnor
+Rivendell
