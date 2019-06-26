@@ -2,3 +2,4 @@ Isengard
 Mordor
 Lorien
 Gondor
+Arnor
